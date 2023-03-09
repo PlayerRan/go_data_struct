@@ -1,4 +1,4 @@
-package datastruct
+package tools
 
 type MyStack struct {
 	queue1, queue2 []int
